@@ -1,5 +1,4 @@
 --[[
-@ Benjamin Fillez
 08/09/23
 KeyInteraction - module permettent de teste l'entrer d'une nouvel valeur a la table souhaité
 
